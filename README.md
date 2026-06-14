@@ -21,9 +21,8 @@ Estudante de **Sistemas de Informação** na **Universidade Federal de Ouro Pret
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=art-prog-100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=art-prog-100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=art-prog-100&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
 ---
 
