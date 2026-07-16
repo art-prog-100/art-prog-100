@@ -25,20 +25,11 @@ Estudante de **Sistemas de Informação** na **Universidade Federal de Ouro Pret
 
 <div align="center">
 
-<!-- 1. Estatísticas Gerais (O que você já usava, mas forçando atualização) -->
-<img src="https://github-readme-stats.vercel.app/api?username=art-prog-100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=0" />
 
-<!-- 2. Top Linguagens -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=art-prog-100&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=0" />
-
-<!-- 3. Streak Stats (Consistência) -->
+<!-- 1. Streak Stats (Consistência) -->
 <img src="https://streak-stats.demolab.com?user=art-prog-100&theme=tokyonight&cache_seconds=0" />
 
-<!-- 4. GitHub Profile Trophy (Gamificação) -->
-<img src="https://github-profile-trophy.vercel.app/?username=art-prog-100&theme=tokyonight&cache_seconds=0" />
 
-<!-- 5. Gráfico de Atividade -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=art-prog-100&theme=tokyonight&hide_border=true&cache_seconds=0" />
 
 </div>
 
