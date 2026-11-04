@@ -1,5 +1,5 @@
 # Olá, eu sou o Arthur Augusto! 👋👨‍💻
-Estudante de **Sistemas de Informação** na **Universidade Federal de Ouro Preto (UFOP)** — 4º Período. 🎓🏛️
+Estudante de **Sistemas de Informação** na **Universidade Federal de Ouro Preto (UFOP)** — 5º Período. 🎓🏛️
 
 ---
 
